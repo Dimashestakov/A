@@ -14,7 +14,7 @@ public class Main {
 
     public static void checkSumSign() {
         int a = 55;
-        int b = -33;
+        int b = -333;
         int sum = a + b;
 
         if (sum >= 0) {
